@@ -1,4 +1,6 @@
 # Tic Tac Toe with AI (Godot)
+![Godot](https://img.shields.io/badge/Godot-Engine-blue)
+![AI](https://img.shields.io/badge/AI-Minimax-green)
 
 A Tic Tac Toe (3-in-a-row) game developed in Godot featuring a single-player mode against an AI opponent powered by the Minimax algorithm with Alpha-Beta pruning.
 
@@ -57,6 +59,6 @@ https://github.com/russs123/tictactoe_tut
 
 ---
 
-## 📄 License
+## License
 
 This project follows the same license as the original repository.
